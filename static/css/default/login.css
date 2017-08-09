@@ -17,9 +17,9 @@ body{background:url('img/login_bg.jpg') no-repeat #e9f0f4;}
 .btn-twitter:hover{background-color: #00ace6;}
 .btn-twitter:active{background-color: #009dd2;}
 .btn-wechat{background-color: #73db42;color: #fff !important;}
-.btn-primary{border:none;background-color: #59b0ff;}
-.btn-primary:hover{background-color: #4daaff;}
-.btn-primary:active, .btn-primary:focus{background-color: #1a90ff;}
+.btn-primary{border:none;background-color: #ffb059;}
+.btn-primary:hover{background-color: #ffaa4d;}
+.btn-primary:active, .btn-primary:focus{background-color: #ff901a;}
 .btn:active, .btn.active{box-shadow: none;}
 .aw-login-box{width: 714px;margin:0 auto;background-color: #fff;border:1px solid #b3b3b3;border-radius: 3px;}
 .aw-login-box .logo{width:151px;height:94px;background:url('img/login_logo.png') no-repeat;}
@@ -43,11 +43,11 @@ body{background:url('img/login_bg.jpg') no-repeat #e9f0f4;}
 .aw-login-box .mod-body .side-bar .btn-wechat.active img{max-width: 148px;}
 .aw-login-box .mod-body .side-bar .btn-wechat.active #aw-loading-mini-box{margin-top: 55px;}
 .aw-login-box .mod-body .form-control{height: 40px;line-height: 28px\0;padding-left:15px !important;box-shadow: none;border-color: #e6e6e6;}
-.aw-login-box .mod-footer{height: 70px;line-height:70px;background-color: #f5f5f5;padding:0 60px;color: #66b7ff;}
+.aw-login-box .mod-footer{height: 70px;line-height:70px;background-color: #f5f5f5;padding:0 60px;color: #ffb766;}
 .aw-login-box .mod-footer span{color: #666;}
-.aw-login-box .mod-footer a{color: #66b7ff;}
+.aw-login-box .mod-footer a{color: #ffb766;}
 .aw-footer-wrap{color: #999;}
-.aw-footer-wrap a{color: #66b7ff;}
+.aw-footer-wrap a{color: #ffb766;}
 
 /* iphone竖屏幕 */
 @media (max-width:640px){
